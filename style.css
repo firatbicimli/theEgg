@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Finlandica:ital@1&family=Fira+Sans+Condensed:wght@500&family=PT+Serif:ital@0;1&family=Tapestry&display=swap');
+
+body {
+    font-family: 'Finlandica', sans-serif;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    width: 70rem;
+    text-align: center;
+    margin-left: 10%;
+    background-color: beige;    
+}
+
+
